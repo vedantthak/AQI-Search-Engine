@@ -1,0 +1,34 @@
+body {
+    background: #0f2027;
+    color: white;
+    font-family: Arial;
+}
+
+.container {
+    width: 400px;
+    margin: 80px auto;
+    background: rgba(255,255,255,0.1);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+input {
+    width: 90%;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 10px 0;
+}
+button {
+    padding: 10px 20px;
+    background: #06b6d4;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.aqi-box {
+    margin-top: 20px;
+    padding: 15px;
+    background: #203a43;
+    border-radius: 12px;
+}
